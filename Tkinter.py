@@ -17,3 +17,4 @@ label_judul = tk.tabel(
     text="Aplikasi Prediksi Prodi Pilihan",
     font=("Arial", 18, "bold"),
 )
+label_judul.pack(pady=(20,10))
