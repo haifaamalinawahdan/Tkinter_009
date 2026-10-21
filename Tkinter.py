@@ -52,3 +52,4 @@ tombol = tk.Button(
     pady=5,
     command=hasil_prediksi,
 )
+tombol.pack(pady=15)
