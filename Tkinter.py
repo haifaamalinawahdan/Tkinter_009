@@ -53,3 +53,6 @@ tombol = tk.Button(
     command=hasil_prediksi,
 )
 tombol.pack(pady=15)
+
+var_hasil = tk.StringVar()
+var_hasil.set("-") 
