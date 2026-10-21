@@ -67,3 +67,4 @@ label_hasil = tk.Label(
     width=28,
     pady=8,
 )
+label_hasil.pack(pady=(5, 20))
