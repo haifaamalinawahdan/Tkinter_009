@@ -68,3 +68,4 @@ label_hasil = tk.Label(
     pady=8,
 )
 label_hasil.pack(pady=(5, 20))
+top.mainloop()
